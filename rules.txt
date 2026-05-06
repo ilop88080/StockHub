@@ -1,0 +1,56 @@
+=== CITOU AGENCY TYPOGRAPHY & SPACING RULES ===
+
+1. Font System
+   - Titles → Roboto Condensed (Bold or Semi-Bold)
+   - Paragraphs → Roboto (Regular)
+   - Font scale → 48 / 36 / 28 / 24 / 16 / 14
+   - Keep consistent contrast between headings and body
+
+2. Line Height
+   - Headings → 1.3
+   - Paragraphs → 1.7
+   - Keep text airy and readable, never cramped
+
+3. Letter Spacing
+   - Titles → +0.5px (optional uppercase)
+   - Paragraphs → 0 or slight positive spacing for small sizes
+
+4. Spacing Rhythm
+   - Base unit: 8px grid system
+   - Small gap → 8px
+   - Medium gap → 16px
+   - Large gap → 24px
+   - Section padding → 80px top & bottom (10 × 8px)
+   - Keep vertical spacing consistent between sections
+
+5. Paragraph Width
+   - Max width → 70 characters per line
+   - Align left, not justified
+   - Break text visually with clear margins
+
+6. Button & CTA Text
+   - Font: Roboto Condensed, uppercase
+   - Weight: 600
+   - Letter spacing: +1px
+   - Padding: multiple of 8px (ex: 12px 24px)
+
+7. Text Hierarchy
+   - H1 → Used once per page, strongest contrast
+   - H2 → Section title
+   - H3/H4 → Subsection or feature title
+   - Body → Supporting content
+   - Small → Legal text, captions, or footnotes
+
+8. Visual Balance
+   - Maintain consistent rhythm between text blocks
+   - Avoid stacking multiple heavy fonts
+   - Use white space to breathe around content
+
+9. Color Use
+   - Titles: Dark neutral or your brand’s primary tone (#005522)
+   - Highlights / Accents: #217844
+   - Body text: Dark gray or neutral (#222)
+
+10. Responsiveness
+    - Use fluid typography where possible (e.g., clamp)
+    - Always respect the 8px spacing rule on all breakpoints
